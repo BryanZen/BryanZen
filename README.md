@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Bryan Zen, an undergraduate student studying Information Systems with a specialization in Systems and Network Administration at Stony Brook University.
+
 <!--
 **BryanZen/BryanZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
