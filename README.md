@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bryan Zen, I studied at Stony Brook University studying Information Systems Engineering. I currently work in New York City as a Junior Systems Engineer.
+I'm Bryan Zen, an Information Systems Engineering graduate from Stony Brook University, currently working in New York City as a Junior Systems Engineer.
 <!--
 **BryanZen/BryanZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
